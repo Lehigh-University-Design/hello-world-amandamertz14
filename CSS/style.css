@@ -3,6 +3,7 @@ body{
     background-color: #ffa98a;
     
     font-size: 18px;
+    font-stretch: semi-expanded;
     margin: 80px;
 }
 p{
